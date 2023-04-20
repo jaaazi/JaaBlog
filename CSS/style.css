@@ -51,11 +51,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 
 
-body {
-    background-color: #ADD8E6;
-    }
 body{
     /*расположение строки в центре*/
+    background-color: #ADD8E6;
     text-align: center;
     margin: 10px;
 }
